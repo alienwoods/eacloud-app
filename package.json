@@ -1,0 +1,38 @@
+{
+  "name": "euroadvance",
+  "version": "1.0.2",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^13.0.0",
+    "@react-native-async-storage/async-storage": "~1.17.3",
+    "@react-navigation/native": "^3.8.4",
+    "expo": "~47.0.3",
+    "expo-application": "~5.0.1",
+    "expo-barcode-scanner": "~12.0.0",
+    "expo-camera": "~13.0.0",
+    "expo-constants": "~14.0.2",
+    "expo-device": "~5.0.0",
+    "expo-localization": "~14.0.0",
+    "expo-screen-orientation": "~5.0.1",
+    "expo-splash-screen": "~0.17.5",
+    "expo-status-bar": "~1.4.2",
+    "expo-updates": "~0.15.5",
+    "expo-web-browser": "~12.0.0",
+    "react": "18.1.0",
+    "react-native": "0.70.5",
+    "react-native-gesture-handler": "^2.8.0",
+    "react-native-paper": "4.9.2",
+    "react-native-webview": "11.23.1",
+    "react-navigation": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
