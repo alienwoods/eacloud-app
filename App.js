@@ -15,7 +15,7 @@ import * as Application from 'expo-application';
 
 SplashScreen.preventAutoHideAsync();
 
-const APP_URL = 'https://eacloudapp4.makeweb.hu/?v=' + Date.now();
+const APP_URL = 'https://app.eacloud.hu/?v=' + Date.now();
 const APP_BACKGROUND_COLOR = "#fff";
 
 export default function App() {
