@@ -1,8 +1,8 @@
 {
   "expo": {
-    "owner": "makeweb",
-    "name": "euroadvance",
-    "slug": "euroadvance",
+    "owner": "alienwoods",
+    "name": "EuroaAdvance",
+    "slug": "app",
     "version": "1.0.2",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,21 +20,21 @@
     ],
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.makeweb.euroadvance"
+      "bundleIdentifier": "com.euroadvance.app"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.makeweb.euroadvance"
+      "package": "com.euroadvance.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "48841d94-6fdc-46eb-982c-dce624406616"
+        "projectId": "3d628f20-1992-471f-bd0e-ab4b98893bbc"
       }
     }
   }
