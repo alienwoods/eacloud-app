@@ -1,8 +1,8 @@
 {
   "expo": {
-    "owner": "alienwoods",
+    "owner": "euroadvance",
     "name": "EuroAdvance",
-    "slug": "app",
+    "slug": "euroadvance-app",
     "version": "1.0.2",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -34,7 +34,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "3d628f20-1992-471f-bd0e-ab4b98893bbc"
+        "projectId": "5fc57b30-2852-461d-a55a-30c672387cc8"
       }
     }
   }
